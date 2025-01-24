@@ -73,8 +73,8 @@ The Power BI dashboard provides a comprehensive view of sales, shipping, and inv
 ## Data Sources
 
 The dashboard uses data from the following sources:
-- **Sales Data**: Includes sales, profit, and order details.
-- **Data Discription**: Contains discription of each column of data in Sales Data.
+- ![**Sales Data**](Data/DataCoSupplyChainDataset.csv): Includes sales, profit, and order details.
+- ![**Data Discription**](Data/DescriptionDataCoSupplyChain.csv): Contains discription of each column of data in Sales Data.
 
 ---
 
@@ -90,12 +90,12 @@ The dashboard uses data from the following sources:
 Below are the key screenshots from the dashboard:
 
 ### Overview
-![Overview](image1.png)
+![Overview](Images/image1.png)
 
 ### Shipping Management
-![Shipping Management](image2.png)
+![Shipping Management](Images/image2.png)
 
 ### Inventory Management
-![Inventory Management](image3.png)
+![Inventory Management](Images/image3.png)
 
 ---
